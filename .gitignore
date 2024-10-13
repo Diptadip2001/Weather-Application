@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-
+$api_key=67fc818b3306fdb6a4ff90845a93273f
 # testing
 /coverage
 
